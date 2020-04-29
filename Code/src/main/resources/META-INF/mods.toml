@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[31,)"
+issueTrackerURL="https://github.com/immortalmice/MinecraftForge1.15.2-ModdingTutorial/issues"
+[[mods]]
+    modId="modtutorialim"
+    version="${version}"
+    displayName="Immortalmice's Mod Tutorial"
+    description='''
+        Just a mod used in making MinecraftForge 1.15.2 modding tutorial
+    '''
+    credits="Thanks for pudding, the best thing in this world."
+    authors="Immortalmice"
+
+[[dependencies.modtutorialim]]
+    modId="forge" #mandatory
+    mandatory=true
+    versionRange="[31,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.modtutorialim]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.2]"
+    ordering="NONE"
+    side="BOTH"
