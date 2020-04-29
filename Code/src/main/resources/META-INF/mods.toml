@@ -12,7 +12,7 @@ issueTrackerURL="https://github.com/immortalmice/MinecraftForge1.15.2-ModdingTut
     authors="Immortalmice"
 
 [[dependencies.modtutorialim]]
-    modId="forge" #mandatory
+    modId="forge"
     mandatory=true
     versionRange="[31,)"
     ordering="NONE"
