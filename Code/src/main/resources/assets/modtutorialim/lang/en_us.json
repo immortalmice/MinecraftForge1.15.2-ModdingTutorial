@@ -1,0 +1,18 @@
+{
+	"_comment": "==================Creative Tabs==================",
+	"itemGroup.modtutorialim.items": "Immortalmice's Mod Tutorial Items",
+
+	"_comment": "=======================ITEM=======================",
+	"item.modtutorialim.pudding": "Pudding",
+
+	"_comment": "======================TOOLTIP=====================",
+	"tooltip.modtutorialim.hold_shift_descript": "Hold §e§oShift§r to see a short cute story.",
+
+	"tooltip.modtutorialim.pudding.descript_1": "§7There was a mouse. He wanted to do §bFIVE§r §7things.",
+	"tooltip.modtutorialim.pudding.descript_2": "§7First, he wanted to write a tutorial.",
+	"tooltip.modtutorialim.pudding.descript_3": "§7He also wanted to eat pudding, and eat pudding.",
+	"tooltip.modtutorialim.pudding.descript_4": "§7Then, eat the delicious pudding.",
+	"tooltip.modtutorialim.pudding.descript_5": "§7The last thing is, eat pudding.",
+	"tooltip.modtutorialim.pudding.descript_6": "§7But he had limited time, so he made a decision.",
+	"tooltip.modtutorialim.pudding.descript_7": "HE WANTED THEM ALL"
+}

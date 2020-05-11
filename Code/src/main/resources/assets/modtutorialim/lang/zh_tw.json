@@ -1,0 +1,18 @@
+{
+	"_comment": "==================創造模式物品欄==================",
+	"itemGroup.modtutorialim.items": "M鼠的教學模組物品",
+
+	"_comment": "======================物品=======================",
+	"item.modtutorialim.pudding": "布丁",
+
+	"_comment": "=====================敘述欄======================",
+	"tooltip.modtutorialim.hold_shift_descript": "按下§e§oShift§r觀看可愛小故事",
+
+	"tooltip.modtutorialim.pudding.descript_1": "§7曾經有個老鼠，他想要做§b五§r§7件事",
+	"tooltip.modtutorialim.pudding.descript_2": "§7首先是他想要寫Forge模組開發教學",
+	"tooltip.modtutorialim.pudding.descript_3": "§7他也想要吃布丁，還有吃布丁",
+	"tooltip.modtutorialim.pudding.descript_4": "§7以及吃下那顆美味可口的布丁",
+	"tooltip.modtutorialim.pudding.descript_5": "§7至於最後的一件事，那就是吃布丁",
+	"tooltip.modtutorialim.pudding.descript_6": "§7可是時間有限，所以他做了個決定",
+	"tooltip.modtutorialim.pudding.descript_7": "他 全 都 要"
+}
