@@ -16,7 +16,6 @@ public class Items{
 		return Items.ItemRegistry.REGISTER;
 	}
 	
-	@SuppressWarnings("unused")
 	public static class ItemRegistry{
 		public static final DeferredRegister<Item> REGISTER = new DeferredRegister<Item>(ForgeRegistries.ITEMS, ModTutorialIM.MODID);
 
