@@ -13,12 +13,14 @@ public class Items{
 	public static final Pudding PUDDING = null;
 
 	public static DeferredRegister<Item> getRegister(){
-		return ItemRegistry.REGISTER;
+		return Items.ItemRegistry.REGISTER;
+	}
+	
+	@SuppressWarnings("unused")
+	private static class ItemRegistry{
+		public static final DeferredRegister<Item> REGISTER = new DeferredRegister<Item>(ForgeRegistries.ITEMS, ModTutorialIM.MODID);
+
+		public static final RegistryObject<Item> OBJ_PUDDING = ItemRegistry.REGISTER.register("pudding", () -> new Pudding());
 	}
 }
 
-class ItemRegistry{
-	public static final DeferredRegister<Item> REGISTER = new DeferredRegister<Item>(ForgeRegistries.ITEMS, ModTutorialIM.MODID);
-
-	public static final RegistryObject<Item> OBJ_PUDDING = ItemRegistry.REGISTER.register("pudding", () -> new Pudding());
-}
