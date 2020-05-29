@@ -8,7 +8,7 @@ import net.minecraftforge.registries.ObjectHolder;
 
 import com.github.immortalmice.modtutorialim.ModTutorialIM;
 
-@ObjectHolder("modtutorialim")
+@ObjectHolder(ModTutorialIM.MODID)
 public class Items{
 	public static final Pudding PUDDING = null;
 
