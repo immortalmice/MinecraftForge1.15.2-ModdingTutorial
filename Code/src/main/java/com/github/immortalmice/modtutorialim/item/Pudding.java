@@ -38,7 +38,6 @@ public class Pudding extends Item{
 	}
 
 	@Override
-	@OnlyIn(Dist.CLIENT)
 	public void addInformation(ItemStack stack, @Nullable World worldIn, List<ITextComponent> tooltip, ITooltipFlag flagIn){
 		boolean isShiftDown = Screen.hasShiftDown();
 
