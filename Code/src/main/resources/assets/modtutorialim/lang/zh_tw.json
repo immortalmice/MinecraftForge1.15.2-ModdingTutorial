@@ -1,9 +1,13 @@
 {
 	"_comment": "==================創造模式物品欄==================",
 	"itemGroup.modtutorialim.items": "M鼠的教學模組物品",
+	"itemGroup.modtutorialim.blocks": "M鼠的教學模組方塊",
 
 	"_comment": "======================物品=======================",
 	"item.modtutorialim.pudding": "布丁",
+
+	"_comment": "======================方塊=======================",
+	"block.modtutorialim.pudding_machine": "布丁機",
 
 	"_comment": "=====================敘述欄======================",
 	"tooltip.modtutorialim.hold_shift_descript": "按下§e§oShift§r觀看可愛小故事",

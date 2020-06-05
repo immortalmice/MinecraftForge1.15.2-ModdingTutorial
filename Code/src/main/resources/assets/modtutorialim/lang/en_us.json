@@ -1,9 +1,13 @@
 {
 	"_comment": "==================Creative Tabs==================",
 	"itemGroup.modtutorialim.items": "Immortalmice's Mod Tutorial Items",
+	"itemGroup.modtutorialim.blocks": "Immortalmice's Mod Tutorial Blocks",
 
 	"_comment": "=======================ITEM=======================",
 	"item.modtutorialim.pudding": "Pudding",
+
+	"_comment": "=======================BLOCK======================",
+	"block.modtutorialim.pudding_machine": "Pudding Machine",
 
 	"_comment": "======================TOOLTIP=====================",
 	"tooltip.modtutorialim.hold_shift_descript": "Hold §e§oShift§r to see a short cute story.",
