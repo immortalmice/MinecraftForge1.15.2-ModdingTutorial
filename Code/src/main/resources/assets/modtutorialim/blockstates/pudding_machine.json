@@ -1,5 +1,8 @@
 {
-	"variants": {
-		"": {"model": "modtutorialim:block/pudding_machine_model"}
+	"variants":{
+		"facing=north": {"model": "modtutorialim:block/pudding_machine_model"},
+		"facing=east": {"model": "modtutorialim:block/pudding_machine_model", "y": 90},
+		"facing=south": {"model": "modtutorialim:block/pudding_machine_model", "y": 180},
+		"facing=west": {"model": "modtutorialim:block/pudding_machine_model", "y": 270}
 	}
 }
