@@ -3,10 +3,13 @@ package com.github.immortalmice.modtutorialim.item;
 import java.util.List;
 import javax.annotation.Nullable;
 
+import com.github.immortalmice.modtutorialim.potion.Effects;
+
 import net.minecraft.item.Food;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.Rarity;
+import net.minecraft.potion.EffectInstance;
 import net.minecraft.world.World;
 import net.minecraft.util.text.ITextComponent;
 import net.minecraft.util.text.StringTextComponent;
@@ -26,8 +29,10 @@ public class Pudding extends Item{
 				.hunger(4)
 				.saturation(2.0f)
 				.setAlwaysEdible()
-				.build())
-			);
+				.effect(() -> new EffectInstance(Effects.PUDDING_EFFECT, 1200), 1.0f)
+				.build()
+			)
+		);
 	}
 
 	@Override

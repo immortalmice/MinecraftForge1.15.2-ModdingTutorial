@@ -9,6 +9,14 @@
 	"_comment": "======================方塊=======================",
 	"block.modtutorialim.pudding_machine": "布丁機",
 
+	"_comment": "======================效果=======================",
+	"effect.modtutorialim.pudding_effect": "全都是布丁",
+
+	"_comment": "======================藥水=======================",
+	"item.minecraft.potion.effect.pudding_effect": "全都是布丁藥水",
+	"item.minecraft.splash_potion.effect.pudding_effect": "全都是布丁飛濺藥水",
+	"item.minecraft.lingering_potion.effect.pudding_effect": "全都是布丁滯留藥水",
+
 	"_comment": "=====================敘述欄======================",
 	"tooltip.modtutorialim.hold_shift_descript": "按下§e§oShift§r觀看可愛小故事",
 

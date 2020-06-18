@@ -9,6 +9,14 @@
 	"_comment": "=======================BLOCK======================",
 	"block.modtutorialim.pudding_machine": "Pudding Machine",
 
+	"_comment": "======================EFFECT======================",
+	"effect.modtutorialim.pudding_effect": "Pudding Spread",
+
+	"_comment": "======================POTION======================",
+	"item.minecraft.potion.effect.pudding_effect": "Potion of Pudding Spread",
+	"item.minecraft.splash_potion.effect.pudding_effect": "Splash Potion of Pudding Spread",
+	"item.minecraft.lingering_potion.effect.pudding_effect": "Lingering Potion of Pudding Spread",
+
 	"_comment": "======================TOOLTIP=====================",
 	"tooltip.modtutorialim.hold_shift_descript": "Hold §e§oShift§r to see a short cute story.",
 
