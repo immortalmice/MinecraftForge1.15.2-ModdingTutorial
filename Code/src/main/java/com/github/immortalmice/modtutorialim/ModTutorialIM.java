@@ -1,7 +1,6 @@
 package com.github.immortalmice.modtutorialim;
 
 import net.minecraftforge.fml.common.Mod;
-
 import com.github.immortalmice.modtutorialim.bus.ModEventHandlers;
 import com.github.immortalmice.modtutorialim.handlers.RegistryHandler;
 
